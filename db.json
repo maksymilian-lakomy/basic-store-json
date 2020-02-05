@@ -3,11 +3,13 @@
     "store": {
         "microphones": [
             {
+                "id": 1,
                 "name": "Blue Baby Bottle SL",
                 "description": "Mikrofon Baby Bottle SL to kardioidalny mikrofon pojemnościowy o klasycznym brzmieniu i niesamowitej wszechstronności. Z bogatą prezencją średnicy, łagodną górą pasma oraz neutralnym dołem, Baby Bottle SL jest reminiscencją najlepszych vintageowych mikrofonów świata.",
                 "price": 375
             },
             {
+                "id": 2,
                 "name": "Rode PSA-1",
                 "description": "Rode PSA1 Studio Arm to statyw mikrofonowy typu radiowego, dzięki któremu zyskasz szerokie możliwości modyfikacji ustawienia mikrofonu.",
                 "price": 77
@@ -15,6 +17,7 @@
         ],
         "audioInterfaces": [
             {
+                "id": 100,
                 "name": "Focusrite Scarlett 18i8 3rd Gen",
                 "description": "Scarlett 18i8 trzeciej generacji to doskonały interfejs audio dla inżynierów i producentów nagrań, potrzebujących stworzyć sobie warunki do wielośladowego nagrywania, gdziekolwiek się znajdą.",
                 "value": 395

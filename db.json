@@ -1,7 +1,10 @@
 {
-    "settings": {
-        "defaultCurrency": "EUR"
-    },
+    "settings": [
+        {
+            "name": "DEFAULT_CURRENCY",
+            "default": "EUR"
+        }
+    ],
     "store": [
         {
             "id": 1,

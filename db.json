@@ -1,11 +1,10 @@
 {
-    "settings": [
-        {
-            "name": "DEFAULT_CURRENCY",
+    "settings": {
+        "DEFAULT_CURRENCY": {
             "default": "EUR",
             "client": null
         }
-    ],
+    },
     "store": [
         {
             "id": 1,
